@@ -1,0 +1,13 @@
+{
+  "name": "livestream-pro-worker",
+  "version": "1.0.0",
+  "description": "24/7 FFmpeg YouTube Live Stream Automation Worker",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.2"
+  }
+}
